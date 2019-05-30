@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.14.2 
-MAINTAINER wwx607336
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.14.2
